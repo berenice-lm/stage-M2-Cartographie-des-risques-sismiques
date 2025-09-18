@@ -1,3 +1,5 @@
+<img width="1917" height="917" alt="seisme" src="https://github.com/user-attachments/assets/8bb2ddd1-2fae-44c7-b4c0-35874e5bd3dc" />
+
 FRANCAIS
 
 Cet entrepôt contient mon travail de stage sur la cartographie des risques sismiques. Vous retrouverez les données plus conséquentes (vidéos, données) sur le zenodo suivant : https://zenodo.org/records/7584092 
